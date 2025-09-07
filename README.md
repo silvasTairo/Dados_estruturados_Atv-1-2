@@ -3,12 +3,12 @@
 ### Lista 11 exercícios:
 
 Restrições (o que não deve ser utilizado):
-Métodos ou funções de alta ordem em coleções:
-● forEach
-● map
-● filter
-● reduce
-● find, some, every
+Métodos ou funções de alta ordem em coleções: /br
+● forEach /br
+● map /br
+● filter /br
+● reduce /br
+● find, some, every /br
 
 Recursão ou qualquer forma de iteração indireta
 (funções que chamam a si mesmas para percorrer a lista).
